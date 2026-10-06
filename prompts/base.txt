@@ -1,0 +1,7 @@
+Square 1:1 image: authentic pixel art for a 64×64 LED matrix display (Divoom Pixoo 64). Output only the artwork, edge to edge — not a photo or mockup of a device.
+
+Technical rules (strict):
+- Drawn on an exact 64×64 grid enlarged to 1024×1024, so every art pixel is a uniform, hard-edged 16×16 square aligned to the grid. One pixel size everywhere.
+- Flat solid colors only: no anti-aliasing, gradients, blur, glow, soft shadows, texture or noise.
+- At most 12 bold, highly saturated colors that look vivid on LEDs, on a pure black (#000000) background (black = LED off). Outlines use a darker shade of the shape's own color, never black.
+- Big, simple, high-contrast shapes readable from across a room. Nothing smaller than one grid pixel. No grid lines, border, text, logo or signature.
